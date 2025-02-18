@@ -23,7 +23,7 @@ hotel_management_system/ │ ├── hotelmanagement/ # Source code folder │
 
 ### **1️⃣ Clone the Repository**  
 ```sh
-git clone https://github.com/yourusername/hotel_management_system.git
+git clone https://github.com/h3x4ur0r/hotel_management_system.git
 cd hotel_management_system
 ```
 
